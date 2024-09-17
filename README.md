@@ -4,6 +4,11 @@ Spectrum-image dual-modality fusion empowered accurate and efficient classificat
 
 #In the text, there is a parameter with an incorrect unit in 3.2. The physical experiments. Please note the specific correction as follows:(delay: 2 us; pulse width: 9 us)
 
+Explanation of Error in Table 3 and Correction:
+
+![table3](https://github.com/user-attachments/assets/b23416a6-9972-4ee3-8450-70d887b03a75)
+
+
 
 # TCM classification system
 This project provides part of the dataset  (https://pan.baidu.com/s/1k65_nPI476NYdSfX4wMQgA?pwd=Hust) (code:hust ) for 'LIBS and Image Empowered Accurate and Efficient System for Classification of
